@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\Example012_ArrayLibrary.exe
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\Example012_ArrayLibrary.deps.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\Example012_ArrayLibrary.runtimeconfig.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\Example012_ArrayLibrary.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\ref\Example012_ArrayLibrary.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\bin\Debug\net6.0\Example012_ArrayLibrary.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\ref\Example012_ArrayLibrary.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example012_ArrayLibrary\obj\Debug\net6.0\Example012_ArrayLibrary.genruntimeconfig.cache
