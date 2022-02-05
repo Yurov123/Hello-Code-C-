@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\Example010_Massive.exe
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\Example010_Massive.deps.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\Example010_Massive.runtimeconfig.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\Example010_Massive.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\ref\Example010_Massive.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\bin\Debug\net6.0\Example010_Massive.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\ref\Example010_Massive.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example010_Massive\obj\Debug\net6.0\Example010_Massive.genruntimeconfig.cache
