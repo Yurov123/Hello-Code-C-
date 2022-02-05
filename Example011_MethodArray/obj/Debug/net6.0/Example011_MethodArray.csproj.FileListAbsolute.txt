@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\Example011_MethodArray.exe
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\Example011_MethodArray.deps.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\Example011_MethodArray.runtimeconfig.json
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\Example011_MethodArray.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\ref\Example011_MethodArray.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\bin\Debug\net6.0\Example011_MethodArray.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.AssemblyInfo.cs
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\ref\Example011_MethodArray.dll
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.pdb
+C:\Users\Honor\Desktop\C#(My Project)\Examples\Example011_MethodArray\obj\Debug\net6.0\Example011_MethodArray.genruntimeconfig.cache
